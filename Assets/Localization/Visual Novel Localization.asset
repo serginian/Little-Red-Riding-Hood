@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5be51871efa6c3e4eae1703925c8f5ac, type: 3}
+  m_Name: Visual Novel Localization
+  m_EditorClassIdentifier: 
+  m_SharedTableData: {fileID: 11400000, guid: cab1c29c3382a45d690ea0dbcc8345d0, type: 2}
+  m_Tables:
+  - {fileID: 11400000, guid: ba1f6cf362b814d528476865bf1fa724, type: 2}
+  - {fileID: 11400000, guid: 4e041661d26a144ac8e061bb9a3042ff, type: 2}
+  - {fileID: 11400000, guid: 5b7e941b4ad704db2adaf353da716321, type: 2}
+  m_Extensions: []
+  m_Group: String Table
+  references:
+    version: 2
+    RefIds: []

@@ -1,0 +1,71 @@
+[
+  {
+    "id": 1,
+    "type": "Text",
+    "textKey": "story.opening",
+    "nextFrameId": 2
+  },
+  {
+    "id": 2,
+    "type": "Text",
+    "textKey": "story.forest",
+    "nextFrameId": 3
+  },
+  {
+    "id": 3,
+    "type": "Dialogue",
+    "textKey": "redhood.greeting",
+    "nextFrameId": 4,
+    "characterAddress": "characters/redhood",
+    "characterPosition": "Left"
+  },
+  {
+    "id": 4,
+    "type": "Dialogue",
+    "textKey": "wolf.appears",
+    "nextFrameId": 5,
+    "characterAddress": "characters/graywolf",
+    "characterPosition": "Right"
+  },
+  {
+    "id": 5,
+    "type": "Dialogue",
+    "textKey": "wolf.question",
+    "nextFrameId": 6,
+    "characterAddress": "characters/graywolf",
+    "characterPosition": "Right"
+  },
+  {
+    "id": 6,
+    "type": "Dialogue",
+    "textKey": "redhood.response",
+    "nextFrameId": 7,
+    "characterAddress": "characters/redhood",
+    "characterPosition": "Left"
+  },
+  {
+    "id": 7,
+    "type": "Choice",
+    "textKey": "choice.wolf_suggests",
+    "options": [
+      {
+        "textKey": "choice.trust_wolf",
+        "targetFrameId": 8
+      },
+      {
+        "textKey": "choice.be_cautious",
+        "targetFrameId": 9
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "type": "Final",
+    "messageKey": "ending.bad"
+  },
+  {
+    "id": 9,
+    "type": "Final",
+    "messageKey": "ending.good"
+  }
+]

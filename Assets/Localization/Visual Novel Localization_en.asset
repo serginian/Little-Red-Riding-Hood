@@ -1,0 +1,100 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Visual Novel Localization_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: cab1c29c3382a45d690ea0dbcc8345d0, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 72529937948672
+    m_Localized: Scary Wolf
+    m_Metadata:
+      m_Items: []
+  - m_Id: 108831441936384
+    m_Localized: Once upon a time, there was a little girl who always wore a red
+      hooded cloak. Everyone in the village called her Little Red Riding Hood. One
+      sunny morning, her mother asked her to visit her sick grandmother who lived
+      deep in the forest.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 108930117132288
+    m_Localized: Little Red Riding Hood skipped along the forest path, carrying a
+      basket of fresh bread and honey for her grandmother. The trees were tall and
+      ancient, casting dancing shadows on the ground. Birds chirped merrily overhead,
+      and wildflowers bloomed along the way.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 108993144938496
+    m_Localized: What a beautiful day it is! I'm so excited to see Grandmother. I
+      hope these treats will help her feel better. The forest is so peaceful and
+      lovely today.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 109177849503744
+    m_Localized: Well, well, well... what do we have here? A little girl all alone
+      in the big, dark forest. How... interesting.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 109304345518080
+    m_Localized: Where might you be going, my dear child? You seem to be in quite
+      a hurry. Surely you have time to chat with an old friend of the forest?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 109518561206272
+    m_Localized: Oh, hello there! I'm going to visit my grandmother who lives in
+      the cottage by the big oak tree. She's not feeling well, so I'm bringing her
+      some food to help her get better.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 109788611469312
+    m_Localized: 'The wolf''s eyes gleam with a strange light as he speaks: "You
+      know, little one, there''s a shortcut through the meadow that would get you
+      to your grandmother''s house much faster. I could show you the way... or you
+      could stick to this long, winding path."'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 109916525158400
+    m_Localized: Thank you for the offer, but I think I'll stick to the path I know.
+      Mother always told me to be careful in the forest.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 110098562146304
+    m_Localized: That sounds wonderful! Please show me the shortcut. I'd love to
+      get to Grandmother's house quickly.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 110252228861952
+    m_Localized: Little Red Riding Hood followed the wolf's shortcut and arrived
+      at an empty cottage. The wolf had tricked her and reached Grandmother's house
+      first. When she knocked on the door, she heard a strangely deep voice say "Come
+      in, my dear..." Sometimes it's better to trust your instincts and stick to
+      the safe path.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 110319035736064
+    m_Localized: Little Red Riding Hood wisely chose to stay on the familiar path.
+      She arrived safely at her grandmother's cottage and found her resting peacefully
+      in bed. They shared the treats together and had a wonderful visit. Grandmother
+      praised her for being smart and cautious. "Always trust your instincts, dear
+      child," she said with a warm smile.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 111359709667328
+    m_Localized: Redhood
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []
